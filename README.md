@@ -10,7 +10,7 @@ ringo's weblog
 
 2009
 ----
- - 05/09/2009 03:40:13 AM [「ゲーム」の価値とモンテッソリ教育](articles/montessori.md)
+ - 05/09/2009 03:40:13 AM [「ゲーム」の価値とモンテッソリ教育](./articles/montessori.md)
 
 2008
 ----
