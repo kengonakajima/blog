@@ -1,11 +1,14 @@
 ringo's weblog
 ====
-過去のブログを読める状態に戻す。気が向いたら新しいのを書く。
-
-コメントとか加筆は。。。てきとうにforkなどしてください。
+ - 中嶋謙互/MMOG 開発者。
+ - 「オンラインゲームを支える技術」http://goo.gl/cLoOc 著者。 
+ - iOS/Linux/Rails/Lua/Node/MoaiSDK/Unity3D 等の専門性。
+ - 過去の仕事: http://goo.gl/QGdpY
 
 TODO
 ====
+過去のブログを読める状態に戻す。
+
 リンクになってるのはdone.
 
  -  [2005/05/09 パケットビークル](2005_05_09_packet_vehicle.md)
