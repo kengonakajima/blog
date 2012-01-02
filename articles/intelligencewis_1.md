@@ -15,7 +15,7 @@ Lineformというツールを手に入れたので、そのテストついでに
 本文の、intelligent=頭がよい, wise=賢い　という定義は、<br />
 右軸を問題ID、縦軸をその課題への対応精度だとしてグラフにするとこうなる。</p>
 
-<p><img alt="intelligent_wise.png" src="http://www.ce-lab.net/ringo/archives/intelligent_wise.png" width="344" height="156" /></p>
+<p><img alt="intelligent_wise.png" src="https://github.com/kengonakajima/blog/raw/master/articles/intelligent_wise.png" width="344" height="156" /></p>
 
 <p>人によって合計面積は異なるが、基本的には<br />
 「一般的な合計面積をもつ人がどう行動していくべきか」という話なので、<br />

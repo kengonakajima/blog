@@ -7,7 +7,7 @@ identicon
 
 <p>ドメイン名からidenticonを生成してページの左上に表示する<a href="http://d.hatena.ne.jp/tosik/20070204/1170527652">greasemonkeyスクリプト</a>を教えてもらった。</p>
 
-<p>これを使って、このブログ(www.ce-lab.net)を見ると以下のようになる。<br />
+<p>これを使って、このブログを見ると以下のようになる。<br />
 <img alt="identicon.png" src="https://github.com/kengonakajima/blog/raw/master/articles/identicon.png" width="190" height="241" /></p>
 
 <p>この模様が気に入らない！<br />
