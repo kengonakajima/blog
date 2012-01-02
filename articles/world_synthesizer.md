@@ -32,5 +32,5 @@
 増えると思うとわくわくする。</p>
 
 <p>ちなみに、「ワールドシンセサイザー」という言葉は、<br />
-<a href="http://www.ce-lab.net/ringo/archives/2004/09/08/">2004年9月8日</a> にリストアップしていた<br />
+<a href="ithub.com/kengonakajima/blog/blob/master/articles/game_industory.md">2004年9月8日</a> にリストアップしていた<br />
 禁止用語にもマッチしなかった。すばらしいことだ。</p>

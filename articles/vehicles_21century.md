@@ -3,7 +3,7 @@
 03/24/2006 10:39:46 AM
 
 
-<p><a href="http://www.ce-lab.net/ringo/archives/2005/09/27/index.html">「SONY復活の方法」</a>のつづき。</p>
+<p><a href="https://github.com/kengonakajima/blog/blob/master/articles/sony.md">「SONY復活の方法」</a>のつづき。</p>
 
 <p>20年後、電気自動車が一般的になり、自動運転が一般化したとき、<br />
 自動車は現在のPCのように、個人が自分の必要性にあわせて、<br />

@@ -7,7 +7,7 @@ Scratchware
 「スクラッチウェア」 という単語を発見。「はした金ソフト」という意味だ。<br />
 アメリカ人にも同じようなことを考えてる人がいるという感動と、<br />
 単純に内容がすばらしいということと、前のエントリで設定した<br />
-禁止語リストにひっかからないということで、勢いで<a href="https://github.com/kengonakajima/blog/raw/master/articles/scratchware.html">適当訳をまたもややってみた</a>。<br />
+禁止語リストにひっかからないということで、勢いで<a href="https://github.com/kengonakajima/blog/blob/master/articles/scratchware_trans.md">適当訳をまたもややってみた</a>。<br />
 雑でごめんなさい。</p>
 
 <p><br />
