@@ -40,7 +40,7 @@ Lineformというツールを手に入れたので、そのテストついでに
 
 <p>課題が10種類あり、そのうち1種類の問題に関してintelligentである人がいるとする。</p>
 
-<p><img alt="intelligent_top.png" src="http://www.ce-lab.net/ringo/archives/intelligent_top.png" width="350" height="181" /></p>
+<p><img alt="intelligent_top.png" src="https://github.com/kengonakajima/blog/raw/master/articles/intelligent_top.png" width="350" height="181" /></p>
 
 <p>現代は、左側の状態から、右側の状態に移行することが、<br />
 「良いことである」と考える時代なのだ。<br />
@@ -54,11 +54,11 @@ Lineformというツールを手に入れたので、そのテストついでに
 <p>まずintelligentな人が二人いて、うまく市場を使うことができれば、<br />
 more intelligentになる。</p>
 
-<p><img alt="int_plus_int_moreint.png" src="http://www.ce-lab.net/ringo/archives/int_plus_int_moreint.png" width="471" height="146" /></p>
+<p><img alt="int_plus_int_moreint.png" src="https://github.com/kengonakajima/blog/raw/master/articles/int_plus_int_moreint.png" width="471" height="146" /></p>
 
 <p>intelligentな人がたくさんいたら、"superwise"と呼べるようなものに近づいていく。</p>
 
-<p><img alt="superwise.png" src="http://www.ce-lab.net/ringo/archives/superwise.png" width="461" height="95" /></p>
+<p><img alt="superwise.png" src="https://github.com/kengonakajima/blog/raw/master/articles/superwise.png" width="461" height="95" /></p>
 
 <p>誰しもがsuperwiseになりたいと望んでいる。<br />
 市場は、極めてintelligentな人を集めて、superwiseを作り出す方法なのだ。</p>

@@ -9,11 +9,11 @@
 最新のニュースに対応するために加筆をしたいが、<br />
 その時間が取れないので、そのままで掲載する。</p>
 
-<p><a href="http://www.ce-lab.net/ringo/archives/unix_mag_column_1.pdf">UNIX Magazine 2005年11月号「遅くて安いコンピュータ」</a><br />
-<a href="http://www.ce-lab.net/ringo/archives/unix_mag_column_2.pdf">UNIX Magazine 2005年12月号「ボトムアップ型通信基盤」</a><br />
-<a href="http://www.ce-lab.net/ringo/archives/unix_mag_column_3.pdf">UNIX Magazine 2006年1月号「利用制限のないWebサービス」</a><br />
-<a href="http://www.ce-lab.net/ringo/archives/unix_mag_column_4.pdf">UNIX Magazine 2006年2月号「地を這うソフトウェア、空飛ぶソフトウェア」</a><br />
-<a href="http://www.ce-lab.net/ringo/archives/unix_mag_column_5.pdf">UNIX Magazine 2006年3月号「ラピッド・プロトタイピング」</a></p>
+<p><a href="https://github.com/kengonakajima/blog/raw/master/articles/unix_mag_column_1.pdf">UNIX Magazine 2005年11月号「遅くて安いコンピュータ」</a><br />
+<a href="https://github.com/kengonakajima/blog/raw/master/articles/unix_mag_column_2.pdf">UNIX Magazine 2005年12月号「ボトムアップ型通信基盤」</a><br />
+<a href="https://github.com/kengonakajima/blog/raw/master/articles/unix_mag_column_3.pdf">UNIX Magazine 2006年1月号「利用制限のないWebサービス」</a><br />
+<a href="https://github.com/kengonakajima/blog/raw/master/articles/unix_mag_column_4.pdf">UNIX Magazine 2006年2月号「地を這うソフトウェア、空飛ぶソフトウェア」</a><br />
+<a href="https://github.com/kengonakajima/blog/raw/master/articles/unix_mag_column_5.pdf">UNIX Magazine 2006年3月号「ラピッド・プロトタイピング」</a></p>
 
 <p>ブログの内容と2~30%ほどかぶっているが、<br />
 雑誌記事としての質を実現するために、<br />

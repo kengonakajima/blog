@@ -3,7 +3,7 @@
 02/19/2004 08:04:48 PM
 
 
-<p><img src="http://www.ce-lab.net/ringo/archives/there_dog.gif"></p>
+<p><img src="https://github.com/kengonakajima/blog/raw/master/articles/there_dog.gif"></p>
 
 <p>MMOG大手の<a href="http://www.there.com/">There.com</a><br />
  が US army と契約して地球サイズのMMOGを作るらしい。<br />
