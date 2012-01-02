@@ -8,7 +8,7 @@ Googleについてさらに考える1
 次の10年を考えるときには、Googleの影響は無視できないはずだ。</p>
 
 <p>まず、Googleと競合することを避け、共存していく方法については、<br />
-<a href="http://www.ce-lab.net/ringo/archives/2005/08/03/index.html#000069">Googleと競合しない方法</a> というエントリで、ひとつの案を考えた。</p>
+<a href="https://github.com/kengonakajima/blog/master/articles/google.md">Googleと競合しない方法</a> というエントリで、ひとつの案を考えた。</p>
 
 <p>人類が解決していかなければならない問題が100あるとすると、<br />
 泥臭い、湿った、霧につつまれた問題が、実は98ぐらいを占めるはずだ。<br />

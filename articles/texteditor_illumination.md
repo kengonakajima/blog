@@ -15,7 +15,7 @@
 その行に含まれる語句をばらばらに分解してサーバーに送る。<br />
 それと同時に、サーバーから、ほかの人が入力した語句を受信する。</p>
 
-<p><img src="http://www.ce-lab.net/ringo/images/emacs_write.png"></p>
+<p><img src="https://github.com/kengonakajima/blog/raw/master/articles/emacs_write.png"></p>
 
 <p>上図のように、自分が入力中のテキストのほかの部分が、その語句に応じて、<br />
 リアルタイムにきらきら光るようにする。<br />
