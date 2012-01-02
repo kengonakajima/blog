@@ -15,7 +15,7 @@ Tim Berners Leeの提案文書
 初期のドキュメントの品質は、将来そのプロジェクトが成し遂げることに対して、<br />
 極めて強い影響を与える。</p>
 
-<p><a href="http://www.ce-lab.net/ringo/archives/tbl_worldwideweb_proposal.html">WorldWideWeb: ハイパーテキストプロジェクトの提案（訳）</a></p>
+<p><a href="https://github.com/kengonakajima/blog/raw/master/articles/tbl_worldwideweb_proposal.html">WorldWideWeb: ハイパーテキストプロジェクトの提案（訳）</a></p>
 
 <p>Tim氏の提案は、技術的にも面白いのだが、<br />
 プロジェクト・マネジメントという観点から見直すと、面白さが何倍にもなる。<br />

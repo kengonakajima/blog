@@ -8,7 +8,7 @@ Googleについてさらに考える1
 次の10年を考えるときには、Googleの影響は無視できないはずだ。</p>
 
 <p>まず、Googleと競合することを避け、共存していく方法については、<br />
-<a href="https://github.com/kengonakajima/blog/master/articles/google.md">Googleと競合しない方法</a> というエントリで、ひとつの案を考えた。</p>
+<a href="https://github.com/kengonakajima/blog/blob/master/articles/google.md">Googleと競合しない方法</a> というエントリで、ひとつの案を考えた。</p>
 
 <p>人類が解決していかなければならない問題が100あるとすると、<br />
 泥臭い、湿った、霧につつまれた問題が、実は98ぐらいを占めるはずだ。<br />
@@ -36,7 +36,7 @@ Googleについてさらに考える1
 
 <p>もうちょっと考えをすすめたい。</p>
 
-<p><a href="http://www.ce-lab.net/ringo/archives/2005/06/19/index.html#000042"><br />
+<p><a href="https://github.com/kengonakajima/blog/blob/master/articles/continuous_cheap_revolution.md"><br />
 チープ革命の連続</a> では、<br />
 世界レベルの分散検索エンジンという考えについてすこし考えた。<br />
 <a href="http://www.google.com/search?q=OpenGoogle">OpenGoogle</a> というキーワードは以前からあったし、<br />
