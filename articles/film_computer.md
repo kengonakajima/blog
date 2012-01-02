@@ -14,10 +14,6 @@
 １個のトランジスタのサイズは横２０ミリ、縦５ミリ、印刷速度0.8m/sだ。値段はまだない。<br />
 写真はGIZMAGより。</p>
 
-<p><a href="http://www.ce-lab.net/ringo/archives/watermark.php_3.html" onclick="window.open('http://www.ce-lab.net/ringo/archives/watermark.php_3.html','popup','width=640,height=272,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">トランジスタ1個の写真</a></p>
-
-<p><a href="http://www.ce-lab.net/ringo/archives/watermark.php_4.html" onclick="window.open('http://www.ce-lab.net/ringo/archives/watermark.php_4.html','popup','width=446,height=670,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">生産風景</a></p>
-
 <p><br />
 単純計算では、A4サイズ(210x280)で、10x55 = 550トランジスタとなる。<br />
 大きな窓なら、1万トランジスタといったところか。</p>
