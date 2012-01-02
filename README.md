@@ -1,11 +1,10 @@
 ringo's weblog
 ====
- - 中嶋謙互/MMOG 開発者。
- - 「オンラインゲームを支える技術」http://goo.gl/cLoOc 著者。 
- - iOS/Linux/Rails/Lua/Node/MoaiSDK/Unity3D 等の専門性。
- - 過去の仕事: http://goo.gl/QGdpY
+中嶋謙互, [@ringo](http://twitter.com/ringo), MMOG開発者, [「オンラインゲームを支える技術」](http://goo.gl/cLoOc), [過去の仕事](http://goo.gl/QGdpY)
 
-記事一覧
+
+
+過去記事一覧
 ====
 
 2009
