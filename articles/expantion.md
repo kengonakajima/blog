@@ -3,7 +3,7 @@
 08/26/2004 08:21:45 PM
 
 
-<p><a href="http://news.bbc.co.uk/2/hi/asia-pacific/3591856.stm"><img src="http://www.ce-lab.net/ringo/archives/cybgirl.jpg"></a></p>
+<p><a href="http://news.bbc.co.uk/2/hi/asia-pacific/3591856.stm"><img src="https://github.com/kengonakajima/blog/raw/master/articles/cybgirl.jpg"></a></p>
 
 <p><br />
 <a href="http://news.bbc.co.uk/2/hi/asia-pacific/3591856.stm">cyber girlfriend</a></p>
