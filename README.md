@@ -74,6 +74,7 @@ ringo's weblog
  - 06/09 [アラン・ケイの夢](https://github.com/kengonakajima/blog/blob/master/articles/alan_kay.md)
  - 05/26 [mixiのnintendogs調査](https://github.com/kengonakajima/blog/blob/master/articles/mixinintendogs.md)
  - 05/12 [言語の進化](https://github.com/kengonakajima/blog/blob/master/articles/languages.md)
+ - 05/09 [パケットビークル](https://github.com/kengonakajima/blog/blob/master/articles/packet_vehicle.md)
  - 04/28 [シミュレーターの作りかた](https://github.com/kengonakajima/blog/blob/master/articles/how_to_make_sim.md)
  - 01/07 [ワールド・シンセサイザー](https://github.com/kengonakajima/blog/blob/master/articles/world_synthesizer.md)
  
