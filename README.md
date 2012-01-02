@@ -87,7 +87,6 @@ ringo's weblog
  - 06/09/2004 08:17:52 PM [MMOGの面白さ曲線](https://github.com/kengonakajima/blog/blob/master/articles/mmog_1.md)
  - 03/19/2004 08:09:01 PM [土地にこだわることと生産性のはなし](https://github.com/kengonakajima/blog/blob/master/articles/productivity.md)
  - 02/22/2004 08:06:40 PM [synthetic world](https://github.com/kengonakajima/blog/blob/master/articles/synthetic_world.md)
- - 02/19/2004 08:04:48 PM [トランクにマージされないコードを書くのは萎える](https://github.com/kengonakajima/blog/blob/master/articles/mainstream.md)
  - 02/16/2004 08:04:34 PM [地中生命の驚異](https://github.com/kengonakajima/blog/blob/master/articles/underground.md)
  - 01/21/2004 07:53:47 PM [老人とテクノロジー](https://github.com/kengonakajima/blog/blob/master/articles/elders.md)
 
