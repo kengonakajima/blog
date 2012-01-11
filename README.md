@@ -1,6 +1,6 @@
 ringo's weblog
 ====
-中嶋謙互, [@ringo](http://twitter.com/ringo), MMOG開発者, [「オンラインゲームを支える技術」](http://goo.gl/cLoOc), [過去の仕事](http://goo.gl/QGdpY)
+中嶋謙互, [@ringo](http://twitter.com/ringo), MMOG開発者, [「オンラインゲームを支える技術」](http://goo.gl/cLoOc), [過去の仕事](https://github.com/kengonakajima/profile/blob/master/README.md)
 
 
 
