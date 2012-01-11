@@ -7,6 +7,11 @@ ringo's weblog
 過去記事一覧
 ====
 
+2012
+----
+ - 01/11 [Luaでのオブジェクト指向のコスト比較](https://github.com/kengonakajima/blog/blob/master/articles/luaoo.md)
+
+
 2009
 ----
  - 05/09 [「ゲーム」の価値とモンテッソリ教育](https://github.com/kengonakajima/blog/blob/master/articles/montessori.md)
