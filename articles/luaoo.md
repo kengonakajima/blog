@@ -23,6 +23,7 @@ Rubyにおける method_missing に近い仕組みである。
     ch:walkTo(x,y)
 
 クラスを拡張するにはこう
+
     Player={}
     setmetatable( Player, { __index = Character} )
     function Player.new(name,job)
@@ -33,9 +34,10 @@ Rubyにおける method_missing に近い仕組みである。
 
 
 おまじないが多くて、きれいではない。
+
 それを嫌って、JavaScriptでいうCoffeeScriptに対応する、
 MoonScriptというのもあるが、CoffeeScriptと同様、「1枚挟まった感じ」
-setmetatableがいかにもおまじないなので、それを嫌って、
+がすきではない。
 
 一方で、メタテーブルを使わずに、テーブルの要素に関数自体を入れて使うだけ、
 という小規模向けで気楽な方法も多用される。
@@ -56,7 +58,7 @@ setmetatableがいかにもおまじないなので、それを嫌って、
     v = new_Character("steve")
     v:walkTo(x,y)
 
-拡張するにはこう
+クラスを拡張するにはこう
 
     function new_Player(name,job)
        local o = new_Character(name)
@@ -69,9 +71,9 @@ setmetatableがいかにもおまじないなので、それを嫌って、
 しかし、インスタンスを初期化するごとに関数の初期化が発生するため、
 この方法は遅いのではないか、と思っていた。
 
-それで、よく調べてみた。
+それで、速度を調査してみた。
 
- !(lua-oo-speedcomp)[https://github.com/kengonakajima/lua-oo-speedcomp]
+[lua-oo-speedcomp データ](https://github.com/kengonakajima/lua-oo-speedcomp)
 
 結論としては、2〜3段以上継承をする場合は、メタテーブルを使うほうが遅い。
 遅いというか、ほとんど懲罰的なコストがかかってしまう。
@@ -86,7 +88,9 @@ setmetatableがいかにもおまじないなので、それを嫌って、
 これでちょっと自信をもって、LuaでOOPができるかもしれない。
 
 
-さて今後だが。たとえばLuaJITが、メタテーブルの検索結果をキャッシュして、
+さて今後だが。
+
+たとえばLuaJITが、メタテーブルの検索結果をキャッシュして、
 2回目以降はそのアドレスを使うようになれば、劇的な高速化が期待できる。
 これはそんなに難しくないかもしれない。
 
