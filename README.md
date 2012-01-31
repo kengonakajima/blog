@@ -10,6 +10,7 @@ ringo's weblog
 2012
 ----
  - 01/11 [Luaでのオブジェクト指向のコスト比較](https://github.com/kengonakajima/blog/blob/master/articles/luaoo.md)
+ - 01/31 [2011年12月と2012年1月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201201.md)
 
 
 2009
