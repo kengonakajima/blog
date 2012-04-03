@@ -9,8 +9,11 @@ ringo's weblog
 
 2012
 ----
- - 01/11 [Luaでのオブジェクト指向のコスト比較](https://github.com/kengonakajima/blog/blob/master/articles/luaoo.md)
+ - 04/03 [2012年年2,3月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201203.md)
+ - 04/02 [Journalizer:private repoでの活動を自動的に抜粋して公開する](https://github.com/kengonakajima/blog/blob/master/articles/journalizer.md)
  - 01/31 [2011年12月と2012年1月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201201.md)
+ - 01/11 [Luaでのオブジェクト指向のコスト比較](https://github.com/kengonakajima/blog/blob/master/articles/luaoo.md)
+
 
 
 2009
