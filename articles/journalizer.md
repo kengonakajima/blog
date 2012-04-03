@@ -6,6 +6,7 @@ githubのプライベートレポジトリに対するコミットの状況を�
 <img alt="journalizer_ss.png" src="https://github.com/kengonakajima/blog/raw/master/articles/journalizer_ss.png">
 
 
+
 [http://journalizer.net/](http://journalizer.net/)
 
 使い方は、githubのレポジトリごとの設定にある “Post-Receive Hook” に、プッシュ通知先のURLを書き、サイトでgithub経由のログインをするだけです。
