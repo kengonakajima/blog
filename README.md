@@ -1,6 +1,12 @@
 ringo's weblog
 ====
-中嶋謙互, [@ringo](http://twitter.com/ringo), MMOG開発者, [「オンラインゲームを支える技術」](http://goo.gl/cLoOc), [過去の仕事](https://github.com/kengonakajima/profile/blob/master/README.md)
+中嶋謙互 ( NAKAJIMA Kengo )
+
+ - MMOG開発者
+ - [twitter @ringo](http://twitter.com/ringo)
+ - [Journalizer: 今週書いたコード](http://journalizer.net/kengonakajima)
+ - [「オンラインゲームを支える技術」著](http://goo.gl/cLoOc)
+ - [過去の仕事リスト](https://github.com/kengonakajima/profile/blob/master/README.md)
 
 
 
@@ -9,7 +15,7 @@ ringo's weblog
 
 2012
 ----
- - 04/03 [2012年年2,3月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201203.md)
+ - 04/03 [2012年2,3月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201203.md)
  - 04/02 [Journalizer:private repoでの活動を自動的に抜粋して公開する](https://github.com/kengonakajima/blog/blob/master/articles/journalizer.md)
  - 01/31 [2011年12月と2012年1月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201201.md)
  - 01/11 [Luaでのオブジェクト指向のコスト比較](https://github.com/kengonakajima/blog/blob/master/articles/luaoo.md)
