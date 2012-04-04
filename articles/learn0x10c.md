@@ -2,7 +2,7 @@
 ====
 <img alt="0x10c_site.png" src="https://github.com/kengonakajima/blog/raw/master/articles/0x10c_site.png" >
 
-notchの新作が発表された。minecraftのときと同様、開発を始めた初期の段階から情報を公開し、<br>
+notchの新作[0x10c](http://0x10c.com)が発表された。minecraftのときと同様、開発を始めた初期の段階から情報を公開し、<br>
 荒削りの初期バージョンを公開して、磨いていくという方針をとるようだ。
 
 minecraftのときと違い、Mojangは今では極めて大きいブランドをもつようになっている。<br>

@@ -15,6 +15,7 @@ ringo's weblog
 
 2012
 ----
+ - 04/04 [0x10cのリリース方法に学ぶ　その1](https://github.com/kengonakajima/blog/blob/master/articles/learn0x10c.md)
  - 04/03 [2012年2,3月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201203.md)
  - 04/02 [Journalizer:private repoでの活動を自動的に抜粋して公開する](https://github.com/kengonakajima/blog/blob/master/articles/journalizer.md)
  - 01/31 [2011年12月と2012年1月のまとめ](https://github.com/kengonakajima/blog/blob/master/articles/201201.md)
