@@ -4,7 +4,6 @@ ringo's weblog
 
  - MMOG開発者
  - [twitter @ringo](http://twitter.com/ringo)
- - [Journalizer: 今週書いたコード](http://journalizer.net/kengonakajima)
  - [「オンラインゲームを支える技術」著](http://goo.gl/cLoOc)
  - [過去の仕事リスト](https://github.com/kengonakajima/profile/blob/master/README.md)
 
@@ -12,6 +11,10 @@ ringo's weblog
 
 過去記事一覧
 ====
+
+2013
+----
+
 
 2012
 ----
