@@ -1,4 +1,4 @@
-# マイクラでメンガーのスポンジ
+# マイクラでメンガーのスポンジを作る
 
 Facebookで知人が<a href="https://en.wikipedia.org/wiki/Menger_sponge">メンガーのスポンジ</a>をマイクラで作っていることを知り、これだ！と直感した。
 
