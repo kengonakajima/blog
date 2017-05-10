@@ -12,9 +12,9 @@ ringo's weblog
 過去記事一覧
 ====
 
-2013
+2017
 ----
-
+ - [マイクラでメンガーのスポンジを作る](https://github.com/kengonakajima/blog/blob/master/articles/mc_menger_sponge.md)
 
 2012
 ----
