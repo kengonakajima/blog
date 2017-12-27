@@ -14,8 +14,8 @@ ringo's weblog
 
 2017
 ----
- - [ポジションペーパー発掘](https://github.com/kengonakajima/blog/blob/master/articles/position.md)
- - [マイクラでメンガーのスポンジを作る](https://github.com/kengonakajima/blog/blob/master/articles/mc_menger_sponge.md)
+ - 12/28 [ポジションペーパー発掘](https://github.com/kengonakajima/blog/blob/master/articles/position.md)
+ - 05/10 [マイクラでメンガーのスポンジを作る](https://github.com/kengonakajima/blog/blob/master/articles/mc_menger_sponge.md)
 
 2012
 ----
