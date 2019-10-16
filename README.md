@@ -12,6 +12,10 @@ ringo's weblog
 過去記事一覧
 ====
 
+2019
+----
+ - 10/16 [ゲームの同期方法の整理](https://github.com/kengonakajima/blog/blob/master/articles/sync.md)
+ 
 2017
 ----
  - 12/28 [ポジションペーパー発掘](https://github.com/kengonakajima/blog/blob/master/articles/position.md)
