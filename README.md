@@ -15,6 +15,7 @@ ringo's weblog
 2020
 ----
 - 01/11 [子供のゲーム依存について](https://github.com/kengonakajima/blog/blob/master/articles/game_kids.md)
+
 2019
 ----
  - 10/16 [ゲームの同期方法の整理](https://github.com/kengonakajima/blog/blob/master/articles/sync.md)
