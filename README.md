@@ -8,7 +8,6 @@ ringo's weblog
  - [過去の仕事リスト](https://github.com/kengonakajima/profile/blob/master/README.md)
 
 
-
 過去記事一覧
 ====
 
